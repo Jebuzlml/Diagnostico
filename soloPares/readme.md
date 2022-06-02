@@ -1,7 +1,7 @@
 # Ejercicio 1 
 
-Primero defino la variable "n" que hace refeencia a la cantidad de numemeros pares que se quieran ver.
-Le asigno la funcion: "Input" para que el usuario ingrese un valor segun el mensaje que se muesta y agrego
+Primero defino la variable "n" que hace refeencia a la cantidad de numeros pares que se quieran ver.
+Le asigno la funcion: "Input" para que, el usuario ingrese un valor segun el mensaje que se muesta y agrego
 la clase "int" para que el valor de input sea considerado como un numero entero.
 
 Luego utilizo el ciclo "for" que permite ejecutar varias veces el codigo que este indentado.
@@ -14,7 +14,7 @@ Para terminar, utilizo "print" para que me muestre en consola el resultado de la
 
 # Ejercicio 2
 Primero defino la variable "n" que hace refeencia a la cantidad de numemeros pares que se quieran ver.
-Le asigno la funcion: "Input" para que el usuario ingrese un valor segun el mensaje que se muesta y agrego
+Le asigno la funcion: "Input" para que, el usuario ingrese un valor segun el mensaje que se muesta y agrego
 la clase "int" para que el valor de input sea considerado como un numero entero.
 
 Luego utilizo el ciclo "for" que permite ejecutar varias veces el codigo que este indentado.
